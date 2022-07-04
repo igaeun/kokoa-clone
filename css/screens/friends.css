@@ -4,12 +4,10 @@
     background-color: #f7f7f7;
     padding: 12px 0px;
     margin-bottom: 5px;
+    margin-top: -15px;
 }
 #friends-display-link i {
     color: rgb(183, 183, 183);
-}
-.friends-screen {
-    padding: 0px var(--horizontal-space);
 }
 .friends-screen__channel {
     margin-top: 13px;
